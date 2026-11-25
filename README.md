@@ -9,10 +9,10 @@ I build LLM conversational agents and practical web products end to end — desi
 Every product below is live — click through and try it.
 
 - **ReplyPilot** — AI customer-chat agents for businesses (WhatsApp, Instagram, web chat): https://replypilot-site.vercel.app
-- **PakkiNaukri** — Job board and CV builder with 21 templates, free to start: https://job-research-tool.vercel.app
+- **PakkiNaukri** — Job board and CV builder with 21 templates, free to start: https://pakkinaukri.online — UK visa-sponsor employer directory: https://pakkinaukri.online/uk-sponsor-licence-list
 - **SEORankGulf** — SEO services for businesses in the Gulf, UK and USA: https://seorankgulf-site.vercel.app
-- **MerryHub** — Printable planners and activity packs for families: https://merryhub.vercel.app
-- **UK Payroll Calculators** — Free UK employer calculators (statutory sick pay, maternity, pro-rata salary, employer NI): https://uk-payroll-calculators.vercel.app · open-source code: https://github.com/MuhammedTauseef/uk-payroll-calculators
+- **MerryHub** — Printable planners and activity packs for families: https://merryhub.xyz — free printables: https://merryhub.xyz/printables
+- **UK Payroll Calculators** — Free UK employer calculators (statutory sick pay, maternity, pro-rata salary, employer NI): https://payrollcalc.co.uk — Statutory Sick Pay calculator: https://payrollcalc.co.uk/ssp-calculator · open-source code: https://github.com/MuhammedTauseef/uk-payroll-calculators
 
 The codebases behind these products are private, as client and business code should be. The live products above — and the open-source UK Payroll Calculators repo — are the public samples of my work.
 
