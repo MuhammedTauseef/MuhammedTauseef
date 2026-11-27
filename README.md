@@ -4,17 +4,17 @@
 
 I build LLM conversational agents and practical web products end to end — design, code, deployment and SEO — and ship them as live products anyone can open and use today.
 
-## Live products
+## My projects
 
-Every product below is live — click through and try it.
+Every project below is live — click through and try it.
 
-- **ReplyPilot** — AI customer-chat agents for businesses (WhatsApp, Instagram, web chat): https://replypilot-site.vercel.app
-- **PakkiNaukri** — Job board and CV builder with 21 templates, free to start: https://pakkinaukri.online — UK visa-sponsor employer directory: https://pakkinaukri.online/uk-sponsor-licence-list
-- **SEORankGulf** — SEO services for businesses in the Gulf, UK and USA: https://seorankgulf-site.vercel.app
-- **MerryHub** — Printable planners and activity packs for families: https://merryhub.xyz — free printables: https://merryhub.xyz/printables
-- **UK Payroll Calculators** — Free UK employer calculators (statutory sick pay, maternity, pro-rata salary, employer NI): https://payrollcalc.co.uk — Statutory Sick Pay calculator: https://payrollcalc.co.uk/ssp-calculator · open-source code: https://github.com/MuhammedTauseef/uk-payroll-calculators
+- **[ReplyPilot](https://replypilot-site.vercel.app)** — AI customer-chat agents for businesses (WhatsApp, Instagram, web chat).
+- **[SEORankGulf](https://seorankgulf.agency)** — SEO services for businesses in the Gulf, UK and USA.
+- **[PakkiNaukri](https://pakkinaukri.online)** — Job board and CV builder with 21 templates, free to start.
+- **[MerryHub](https://merryhub.xyz)** — Printable planners and activity packs for families.
+- **[UK Payroll Calculators](https://payrollcalc.co.uk)** — Free UK employer calculators (statutory sick pay, maternity, pro-rata salary, employer NI).
 
-The codebases behind these products are private, as client and business code should be. The live products above — and the open-source UK Payroll Calculators repo — are the public samples of my work.
+The codebases behind these products are private, as client and business code should be. The live products above are the public samples of my work.
 
 ## What I work with
 
